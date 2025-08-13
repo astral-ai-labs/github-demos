@@ -1,4 +1,8 @@
-def main():
+"""Simple hello world demonstration."""
+
+
+def main() -> None:
+    """Print hello message."""
     print("Hello from github-demos!")
 
 
