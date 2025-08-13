@@ -9,6 +9,3 @@ def is_even(number):
 
 def reverse_string(text):
     return text[::-1]
-
-def get_max_value(numbers):
-    return max(numbers) if numbers else None
